@@ -3,7 +3,7 @@ About cppy
 
 Home: https://github.com/nucleic/cppy
 
-Package license: BSD-3-clause
+Package license: BSD-3-Clause
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/cppy-feedstock/blob/master/LICENSE.txt)
 
