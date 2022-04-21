@@ -1,5 +1,5 @@
 {% set name = "cppy" %}
-{% set version = "1.2.0" %}
+{% set version = "1.2.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 95e8862e4f826c3f2a6b7b658333b162f80cbe9f943aa0d0a7a6b2ef850aeffc
+  sha256: 83b43bf17b1085ac15c5debdb42154f138b928234b21447358981f69d0d6fe1b
 
 build:
   noarch: python
